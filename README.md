@@ -15,6 +15,7 @@
 - [《Head First Python》笔记](https://www.divinerhjf.xyz/posts/2020-05-24-head-first-python/)
 <!-- BLOG-POST-LIST:END -->
 
+### :octocat: GitHub Stats Card :github:
 <!-- github-readme-stats start https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/DivinerHJF?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -24,4 +25,3 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DivinerHJF&layout=compact" />
 </a>
 <!-- github-readme-stats end -->
-
