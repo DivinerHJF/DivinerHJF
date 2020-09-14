@@ -1,6 +1,6 @@
 ### Hi there, I'm Jianfeng Hao - aka [DivinerHJF](https://www.divinerhjf.xyz) 👋
 
-- 🌱 I’m currently learning everything 🤣.
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I spend almost 12 hours listening music and podcasts.
