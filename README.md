@@ -6,6 +6,10 @@
 - ⚡ Fun fact: I spend almost 12 hours listening music and podcasts.
 - 💌 How to reach me: [SoloLearn - @Aether](https://www.sololearn.com/Profile/17928857), [Instagram - @haojianfeng1997](https://www.instagram.com/haojianfeng1997/)
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- github-readme-stats start https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/DivinerHJF?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
