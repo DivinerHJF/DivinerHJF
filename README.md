@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [知识管理体系](https://www.divinerhjf.xyz/posts/2020-06-18-knowledge-management/)
-- [纷乱的毕业季](https://www.divinerhjf.xyz/posts/2020-06-20-graduation-epidemic/)
-- [博客速度优化](https://www.divinerhjf.xyz/posts/2020-06-17-website-optimization/)
-- [网站字体设计之道 - 谷歌字体](https://www.divinerhjf.xyz/posts/2020-05-25-google-fonts/)
-- [《Head First Python》笔记](https://www.divinerhjf.xyz/posts/2020-05-24-head-first-python/)
+- [知识管理体系](https://divinerhjf.xyz/posts/2020-06-18-knowledge-management/)
+- [纷乱的毕业季](https://divinerhjf.xyz/posts/2020-06-20-graduation-epidemic/)
+- [博客速度优化](https://divinerhjf.xyz/posts/2020-06-17-website-optimization/)
+- [网站字体设计之道 - 谷歌字体](https://divinerhjf.xyz/posts/2020-05-25-google-fonts/)
+- [《Head First Python》笔记](https://divinerhjf.xyz/posts/2020-05-24-head-first-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
