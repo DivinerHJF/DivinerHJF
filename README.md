@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [网站新增暗黑模式](https://divinerhjf.xyz/posts/2020-10-20-dark-mode/)
 - [Hugo RSS 模板修改](https://divinerhjf.xyz/posts/2020-10-19-hugo-rss/)
 - [将中国黄页导入 Google 通讯录](https://divinerhjf.xyz/posts/2020-10-19-contacts-import/)
 - [《Head First Python》笔记](https://divinerhjf.xyz/posts/2020-05-24-head-first-python/)
 - [Python 标准库之我见](https://divinerhjf.xyz/posts/2020-05-08-python-standard-library/)
-- [快捷三式 - Markdown 图床工作流](https://divinerhjf.xyz/posts/2020-05-06-image-host/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
