@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I spend almost 12 hours listening music and podcasts.
+- 🥅 2021 Goals: Get a good job and write more blog posts.
+- ⚡ Fun fact: I listen to podcasts on the commute every day.
 - 💌 How to reach me: [SoloLearn - @Aether](https://www.sololearn.com/Profile/17928857), [Instagram - @haojianfeng1997](https://www.instagram.com/haojianfeng1997/)
 
 ### 📕 Latest Blog Posts
