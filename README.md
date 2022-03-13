@@ -1,10 +1,10 @@
-### Hi there, I'm Jianfeng Hao - aka [DivinerHJF](https://www.divinerhjf.xyz) 👋
+### Hi there, I'm Jianfeng Hao - aka [DivinerHJF](https://aetherhjf.netlify.app/) 👋
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Get a good job and write more blog posts.
+- 🥅 2022 Goals: Think less, do more.
 - ⚡ Fun fact: I listen to podcasts on the commute every day.
-- 💌 How to reach me: [SoloLearn - @Aether](https://www.sololearn.com/Profile/17928857), [Instagram - @haojianfeng1997](https://www.instagram.com/haojianfeng1997/)
+- 💌 How to reach me: [SoloLearn - @Aether](https://www.sololearn.com/Profile/17928857), [Twitter - @Aether2022](https://twitter.com/Aether2022)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
