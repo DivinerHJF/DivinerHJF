@@ -9,9 +9,9 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [数仓 | 写出更好的 SQL 语句](https://aetherhjf.netlify.app/2022-04-03-sql-tips/)
-- [R 包 | gt：R 语言输出丰富多彩的表格](https://aetherhjf.netlify.app/2022-04-03-r-gt/)
+- [R 包 | gt：R 语言输出丰富多彩的表格](https://aetherhjf.netlify.app/2022-04-03-r-pkg-gt/)
 - [2022-04 四月是你的谎言](https://aetherhjf.netlify.app/2022-04/)
-- [R 包 | sysfonts &amp; showtext：绘图字体自由定制](https://aetherhjf.netlify.app/2022-03-31-r-showtext/)
+- [R 包 | sysfonts &amp; showtext：绘图字体自由定制](https://aetherhjf.netlify.app/2022-03-31-r-pkg-showtext/)
 - [2022-03 且将诗酒趁年华](https://aetherhjf.netlify.app/2022-03/)
 <!-- BLOG-POST-LIST:END -->
 
