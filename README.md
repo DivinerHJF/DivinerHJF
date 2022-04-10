@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2022-04 「贰」役海航行波澜起](https://aetherhjf.netlify.app/2022-04-b/)
 - [数仓 | 写出更好的 SQL 语句](https://aetherhjf.netlify.app/2022-04-03-sql-tips/)
 - [R 包 | gt：R 语言输出丰富多彩的表格](https://aetherhjf.netlify.app/2022-04-03-r-pkg-gt/)
-- [2022-04 四月是你的谎言](https://aetherhjf.netlify.app/2022-04/)
+- [2022-04 「壹」清和四月雨乍晴](https://aetherhjf.netlify.app/2022-04-a/)
 - [R 包 | sysfonts &amp; showtext：绘图字体自由定制](https://aetherhjf.netlify.app/2022-03-31-r-pkg-showtext/)
-- [2022-03 且将诗酒趁年华](https://aetherhjf.netlify.app/2022-03/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
