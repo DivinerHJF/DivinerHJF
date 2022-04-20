@@ -11,8 +11,8 @@
 - [2022-04 「叁」泛世漂飞孤域客](https://aetherhjf.netlify.app/2022-04-c/)
 - [2022-04 「肆」无拘泠冽异乡灵](https://aetherhjf.netlify.app/2022-04-d/)
 - [2022-04 「贰」疫海风侵破浪行](https://aetherhjf.netlify.app/2022-04-b/)
-- [数仓 | 写出更好的 SQL 语句](https://aetherhjf.netlify.app/2022-04-03-sql-tips/)
-- [R 包 | gt：R 语言输出丰富多彩的表格](https://aetherhjf.netlify.app/2022-04-03-r-pkg-gt/)
+- [数仓 | SQL 技巧篇](https://aetherhjf.netlify.app/2022-04-03-sql-tips/)
+- [数仓 | SQL 概念篇](https://aetherhjf.netlify.app/2022-04-03-sql-tips-copy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
