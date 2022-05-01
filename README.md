@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [2022-04 「叁」泛世漂飞孤域客](https://aetherhjf.com/2022-04-c/)
 - [2022-04 「肆」无拘泠冽异乡灵](https://aetherhjf.com/2022-04-d/)
+- [2022-04 「叁」泛世漂飞孤域客](https://aetherhjf.com/2022-04-c/)
 - [2022-04 「贰」疫海风侵破浪行](https://aetherhjf.com/2022-04-b/)
+- [2022-04 「壹」清和四月雨初晴](https://aetherhjf.com/2022-04-a/)
 - [数仓 | SQL 技巧篇](https://aetherhjf.com/2022-04-03-sql-tips/)
-- [数仓 | SQL 概念篇](https://aetherhjf.com/2022-04-03-sql-tips-copy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
