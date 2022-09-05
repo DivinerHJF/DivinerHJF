@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [2022-05 「肆」收心悟道静打磨](https://aetherhjf.com/2022/05/2022-05-d/)
-- [2022-05 「叁」跑迹环图心思络](https://aetherhjf.com/2022/05/2022-05-c/)
-- [2022-05 「贰」展策谋升幸照拂](https://aetherhjf.com/2022/05/2022-05-b/)
-- [2022-05 「壹」清和孟夏起拼搏](https://aetherhjf.com/2022/05/2022-05-a/)
-- [2022-04 「肆」无拘泠冽异乡灵](https://aetherhjf.com/2022/04/2022-04-d/)
+- [2022-05 清和孟夏起拼搏](https://aetherhjf.com/2022/05/2022-05/)
+- [数仓 | SQL 技巧篇](https://aetherhjf.com/2022/04/sql-tips/)
+- [R 包 | gt：R 语言输出丰富多彩的表格](https://aetherhjf.com/2022/04/r-gt/)
+- [2022-04 无拘泠冽异乡灵](https://aetherhjf.com/2022/04/2022-04/)
+- [R 包 | sysfonts &amp; showtext：绘图字体自由定制](https://aetherhjf.com/2022/03/r-showtext/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
