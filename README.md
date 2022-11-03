@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [《夹边沟记事》读书笔记](https://aetherhjf.com/2022/10/%E5%A4%B9%E8%BE%B9%E6%B2%9F%E7%BA%AA%E4%BA%8B/)
 - [2022 年终总结](https://aetherhjf.com/2022/09/2022-annual/)
 - [2022-09](https://aetherhjf.com/2022/09/2022-09/)
 - [2022-08](https://aetherhjf.com/2022/08/2022-08/)
 - [2022-07](https://aetherhjf.com/2022/07/2022-07/)
+- [2022-06](https://aetherhjf.com/2022/06/2022-06/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
