@@ -8,11 +8,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [2022 回看：平凡的一年，但是大战的前夜](https://aetherhjf.com/2022/11/2022-annual/)
 - [2022-10 困境、挣扎与追寻之旅](https://aetherhjf.com/2022/10/2022-10/)
 - [2022-05 清和孟夏起拼搏](https://aetherhjf.com/2022/05/2022-05/)
 - [2022-04 无拘泠冽异乡灵](https://aetherhjf.com/2022/04/2022-04/)
 - [数仓 | SQL 技巧篇](https://aetherhjf.com/2022/04/sql-tips/)
+- [R 包 | gt：R 语言输出丰富多彩的表格](https://aetherhjf.com/2022/04/r-gt/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :octocat: GitHub Stats Card
