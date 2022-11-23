@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Think less, do more.
 - ⚡ Fun fact: I listen to podcasts on the commute every day.
-- 💌 How to reach me: [SoloLearn - @Aether](https://www.sololearn.com/Profile/17928857), [Twitter - @Aether2022](https://twitter.com/Aether2022)
+- 💌 How to reach me: [Telegram - @Aether_Q](https://t.me/Aether_Q), [Gmail](mailto:haojianfeng1997@gmail.com)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
