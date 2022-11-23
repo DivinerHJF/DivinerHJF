@@ -14,14 +14,3 @@
 - [2022-04 无拘泠冽异乡灵](https://aetherhjf.com/2022/04/2022-04/)
 - [数仓 | SQL 技巧篇](https://aetherhjf.com/2022/04/sql-tips/)
 <!-- BLOG-POST-LIST:END -->
-
-### :octocat: GitHub Stats Card
-<!-- github-readme-stats start https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/DivinerHJF?tab=repositories">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DivinerHJF&show_icons=true&hide=contribs" alt="DivinerHJF's github stats" />
-</a>
-<a href="https://github.com/DivinerHJF?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DivinerHJF&layout=compact" />
-</a>
-<!-- github-readme-stats end -->
