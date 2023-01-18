@@ -1,8 +1,8 @@
 ### Hi there, I'm Jianfeng Hao. 👋
 
-- 🌱 I’m currently learning everything.
-- 🥅 2023 Goals: Be real, be pure, be interesting.
-- ⚡ Fun fact: I listens to podcasts on the commute every day.
+- 🌱 I'm learning everything right now.
+- 🥅 2023 goals: To be real, to be pure, to be interesting.
+- ⚡ Fun fact: I listen to podcasts on my commute every day.
 - 💌 How to reach me: [Blog](https://www.aetherhjf.com/), [Telegram](https://t.me/Aether_Q), [Gmail](mailto:haojianfeng1997@gmail.com)
 
 ### 📕 Latest Blog Posts
