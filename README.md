@@ -1,9 +1,8 @@
 ### Hi there, I'm Jianfeng Hao. 👋
 
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Think less, do more.
-- ⚡ Fun fact: I listen to podcasts on the commute every day.
+- 🥅 2023 Goals: Be pure, be interesting.
+- ⚡ Fun fact: I listens to podcasts on the commute every day.
 - 💌 How to reach me: [Blog](https://www.aetherhjf.com/), [Telegram](https://t.me/Aether_Q), [Gmail](mailto:haojianfeng1997@gmail.com)
 
 ### 📕 Latest Blog Posts
