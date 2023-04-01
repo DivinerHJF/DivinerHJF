@@ -6,9 +6,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Course | CS50P](https://aetherhjf.com/2023/03/cs50p/)
 - [2023-03 回归，多动多学多快乐](https://aetherhjf.com/2023/03/2023-03/)
-- [2023-02 失眠多梦以及拥抱 AI](https://aetherhjf.com/2023/02/2023-02/)
+- [Course | CS50P](https://aetherhjf.com/2023/03/cs50p/)
+- [2023-02 失眠多梦以及拥抱变化](https://aetherhjf.com/2023/02/2023-02/)
 - [2023-01 新年、改变与老朋友们](https://aetherhjf.com/2023/01/2023-01/)
 - [2022 回看：平凡的一年，但似大战的前夜](https://aetherhjf.com/2022/12/2022-annual/)
 <!-- BLOG-POST-LIST:END -->
