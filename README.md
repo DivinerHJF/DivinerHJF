@@ -1,7 +1,7 @@
 ### Hi there, I'm Jianfeng Hao. 👋
 
 - 🌱 I'm currently in the process of learning about everything.
-- 🥅 2023 goals: To be real, to be pure, to be interesting.
+- 🥅 2024 goals: To be real, to be pure, to be interesting.
 - ⚡ Fun fact: I listen to podcasts every day during my daily commute.
 
 ### 📕 Latest Blog Posts
