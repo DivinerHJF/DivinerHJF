@@ -6,9 +6,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [有关爱情的回答](https://philohao.com/2024/04/20240409/)
+- [请回答系列：放轻松去面对咯](https://philohao.com/2024/04/20240409/)
 - [清明 | 奔赴山海，同淋雨，共游园](https://philohao.com/2024/04/20240405/)
-- [文雀乐队 Sparrow](https://philohao.com/2024/02/20240207/)
 - [折腾 | 博文热力图](https://philohao.com/2024/01/20240110/)
 - [折腾 | 图片瀑布流](https://philohao.com/2024/01/20240107/)
+- [有些东西，梦来告诉我](https://philohao.com/2023/12/20231216/)
 <!-- BLOG-POST-LIST:END -->
