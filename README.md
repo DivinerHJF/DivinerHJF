@@ -6,9 +6,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [请回答系列：恋爱篇](https://philohao.com/2024/04/20240409/)
-- [清明 | 奔赴山海，同淋雨，共游园](https://philohao.com/2024/04/20240405/)
+- [小暑 | 每个周末都很充实的六月](https://philohao.com/2024/07/20240706/)
 - [折腾 | 博文热力图](https://philohao.com/2024/01/20240110/)
 - [折腾 | 图片瀑布流](https://philohao.com/2024/01/20240107/)
 - [有些东西，梦来告诉我](https://philohao.com/2023/12/20231216/)
+- [《坠楼死亡的剖析》：生活是微妙的](https://philohao.com/2023/12/20231209/)
 <!-- BLOG-POST-LIST:END -->
