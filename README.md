@@ -6,9 +6,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [折腾 | 用数据文件优化短代码的使用](https://philohao.com/2025/08/20250828/)
 - [折腾 | 博文热力图](https://philohao.com/2024/01/20240110/)
 - [折腾 | 图片瀑布流](https://philohao.com/2024/01/20240107/)
 - [有些东西，梦来告诉我](https://philohao.com/2023/12/20231216/)
 - [《坠楼死亡的剖析》：生活是微妙的](https://philohao.com/2023/12/20231209/)
-- [折腾 | 博客字体变更记](https://philohao.com/2023/11/20231130/)
 <!-- BLOG-POST-LIST:END -->
